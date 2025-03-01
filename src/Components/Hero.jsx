@@ -16,7 +16,7 @@ export default function Hero() {
           width: "100%",
           height: "90vh",
           display: "flex",
-          justifyContent: "center",
+          justifyContent: "right",
           alignItems: "center",
           flexDirection: "column",
           textAlign: "center",
